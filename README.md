@@ -25,8 +25,7 @@ Example function call inside the script: `scrape_etsy("handmade necklace")`
 ## 📊 Example Output
 
 Here’s how the result will look in Excel:  
-`![Example Output](screenshot.png)`
-
+![Example Output](screenshot.png)
 ---
 
 ## 👨‍💻 Author
