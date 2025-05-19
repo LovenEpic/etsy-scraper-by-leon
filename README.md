@@ -1,17 +1,23 @@
-# etsy-scraper-by-leon
-# 🛍️ Etsy Product Scraper by Leon
+ # 🛍️ Etsy Product Scraper by Leon
 
-A simple Python scraper that collects product listings from Etsy search results and saves them to a clean Excel file.
+A simple Python scraper that collects product listings from Etsy based on a search term and saves the data into a clean Excel file.
+
+---
 
 ## 🔍 Features
-- Search any term on Etsy (e.g. "handmade necklace")
+- Searches any term on Etsy (like "handmade necklace")
 - Extracts:
-  - Title
-  - Price
-  - Rating
-- Saves results in an Excel file
-- Easy to modify and reuse
+  - ✅ Title
+  - ✅ Price
+  - ✅ Rating
+- Saves results in a nicely formatted Excel file
+- Easy to customize
 
-## 📦 Requirements
+---
+
+## ⚙️ Requirements
+
+Make sure to install the required packages:
+
 ```bash
 pip install -r requirements.txt
